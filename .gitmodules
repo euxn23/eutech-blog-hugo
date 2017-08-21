@@ -1,3 +1,6 @@
 [submodule "themes/robust"]
 	path = themes/robust
 	url = git@github.com:yutaszk/hugo_theme_robust.git
+[submodule "content/post"]
+	path = content/post
+	url = git@github.com:yutaszk/blog-entry.git
