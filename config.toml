@@ -2,4 +2,4 @@ baseURL = "http://euxn.netlify.com/"
 languageCode = "en-us"
 title = "Eutech Blog"
 theme = "robust"
-pagenate = 50
+pagenate = 10
