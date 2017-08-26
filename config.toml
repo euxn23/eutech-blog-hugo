@@ -1,5 +1,13 @@
 baseURL = "http://euxn.netlify.com/"
+contentDir = "blog-entry"
+defaultLayout = "entry"
+enableEmoji = true
+googleAnalytics = ""
 languageCode = "en-us"
+paginate = 20
+staticDir = "blog-entry/static"
 title = "Eutech Blog"
 theme = "robust"
-pagenate = 10
+
+[outputs]
+page = [ "HTML", "AMP" ]
