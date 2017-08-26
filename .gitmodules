@@ -2,5 +2,5 @@
 	path = themes/robust
 	url = git@github.com:yutaszk/hugo_theme_robust.git
 [submodule "content/post"]
-	path = content/post
+	path = blog-entry
 	url = git@github.com:yutaszk/blog-entry.git
