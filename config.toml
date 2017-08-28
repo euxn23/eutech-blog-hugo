@@ -1,4 +1,4 @@
-baseURL = "http://euxn.netlify.com/"
+baseURL = "http://blog.euxn.me/"
 contentDir = "blog-entry"
 defaultLayout = "entry"
 enableEmoji = true
