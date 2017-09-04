@@ -10,5 +10,10 @@ title = "Eutech Blog"
 theme = "robust"
 hasCjkLanguage = true
 
+[params]
+description = """
+@euxn23 の技術ブログです。たまにレビュー記事も書きます。
+"""
+
 [outputs]
 page = [ "HTML", "AMP" ]
