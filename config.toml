@@ -8,6 +8,7 @@ paginate = 20
 staticDir = "blog-entry/static"
 title = "Eutech Blog"
 theme = "robust"
+hasCjkLanguage = true
 
 [outputs]
 page = [ "HTML", "AMP" ]
