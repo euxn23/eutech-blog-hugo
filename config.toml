@@ -1,4 +1,4 @@
-baseURL = "http://blog.euxn.me/"
+baseURL = "https://blog.euxn.me/"
 contentDir = "blog-entry"
 defaultLayout = "entry"
 enableEmoji = true
