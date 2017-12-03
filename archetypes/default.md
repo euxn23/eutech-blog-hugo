@@ -4,6 +4,6 @@ title = ""
 thumbnail = ""
 tags = [""]
 categories = [""]
-# ["Tech", "Engineering", "Life", "Poem", "DevEnv"]
+# ["Tech", "Engineering", "Life", "Poem", "DevEnv", "Otaku"]
 +++
 
