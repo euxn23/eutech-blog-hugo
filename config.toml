@@ -16,4 +16,5 @@ description = """
 """
 
 [outputs]
+home = [ "HTML", "RSS" ]
 page = [ "HTML", "AMP" ]
